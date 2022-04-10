@@ -1,6 +1,6 @@
 {
   "name": "node-yukihirog-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "read/write *.json",
   "main": "index.js",
   "scripts": {
