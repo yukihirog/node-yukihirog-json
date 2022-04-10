@@ -1,4 +1,7 @@
 # node-yukihirog-json
+
+[![Build Status](https://app.travis-ci.com/yukihirog/node-yukihirog-json.svg?branch=main)](https://app.travis-ci.com/yukihirog/node-yukihirog-json)
+
 read/write *.json
 
 # Installation
