@@ -1,0 +1,33 @@
+{
+  "name": "node-yukihirog-json",
+  "version": "1.0.0",
+  "description": "read/write *.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yukihirog/node-yukihirog-json.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Yukihiro Ogawa <works@yukihirog.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukihirog/node-yukihirog-json/issues"
+  },
+  "homepage": "https://github.com/yukihirog/node-yukihirog-json",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "jest": {
+    "verbose": true,
+    "silent": false,
+    "coverageDirectory": "./coverage",
+    "testMatch": [
+      "**/test/**/*.js"
+    ]
+  }
+}
