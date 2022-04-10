@@ -23,8 +23,7 @@
     "jest": "^27.5.1"
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "access": "public"
   },
   "jest": {
     "verbose": true,
