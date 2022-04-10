@@ -1,0 +1,7 @@
+{
+  "hoge": "fuga",
+  "foo": {
+    "name": "foo",
+    "bar": ["bar1", 2, "bar3"]
+  }
+}
