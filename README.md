@@ -1,13 +1,13 @@
 # node-yukihirog-json
 
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE) [![Build Status](https://app.travis-ci.com/yukihirog/node-yukihirog-json.svg?branch=main)](https://app.travis-ci.com/yukihirog/node-yukihirog-json)
+[![npm version](https://badge.fury.io/js/node-yukihirog-json.svg)](https://www.npmjs.com/package/node-yukihirog-json) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE) [![Build Status](https://app.travis-ci.com/yukihirog/node-yukihirog-json.svg?branch=main)](https://app.travis-ci.com/yukihirog/node-yukihirog-json)
 
 read/write *.json
 
 # Installation
 
 ```
-npm install --save-dev node-yukihirog-json
+npm install --save node-yukihirog-json
 ```
 
 ## Usage
